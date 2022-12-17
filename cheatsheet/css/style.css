@@ -1,6 +1,3 @@
-div {
-  background-color: plum;
-}
-div a {
-  color: white;
+.sized {
+  height: 100px;
 }
